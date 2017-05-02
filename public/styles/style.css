@@ -1,0 +1,56 @@
+body{
+	background: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+/* navbar */
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+    font-weight: 300;
+    font-size: 20px;
+}
+/* Link */
+.navbar-default .navbar-nav > li > a {
+    color: #213f99;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #213f99;
+}
+.search{
+	margin-top: 30px;
+}
+.search-bar{
+	padding: 20px;
+}
+.search-bar > input {
+	font-weight: 300;
+}
+.logo{
+	margin-top: 40px;
+}
+.footer{
+	text-align: center;
+	font-weight: 300;
+	padding: 10px;
+}
+.percentage{
+	font-weight: 300;
+	font-size: 50px;
+}
+.count{
+	font-size: 18px;
+}
+.pos{
+	color: #00AEEF;
+}
+.neg{
+	color: #0F75BC;
+}
+.product-title{
+	font-weight: 300;
+	font-size: 30px;
+}
+.display{
+	margin-top: 60px;
+}
